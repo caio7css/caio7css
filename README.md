@@ -1,4 +1,4 @@
-# Olá, eu sou o Caio! (César Silva dos Santos) 👋
+# Olá, eu sou o caio7css
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -29,7 +29,7 @@
 
 ---
 
-### 📊 Minhas Estatísticas
+###  Minhas Estatísticas
 
 <div align="center">
   <a href="https://github.com/caio7css">
@@ -42,7 +42,7 @@
 
 ---
 
-### 🐍 Minhas Contribuições
+###  cobrinhaa
 
 <div align="center">
   <img src="https://github.com/caio7css/caio7css/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
