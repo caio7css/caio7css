@@ -15,9 +15,9 @@
   
   🔭 I’m currently working on **Data Science, Analytics, Machine Learning,**
   
-  🌱 I’m currently learning **python, C & C#**
+  🌱 I’m currently learning **python,javascript, R, java,  C & C#**
   
-  👯 I’m looking to collaborate on **Python Projects**
+  👯 I’m looking to collaborate on **data analysis projects, back-end develolpment and engineering machine learning**
   
   📫 How to reach me **1caioccss@gmail.com**
 
