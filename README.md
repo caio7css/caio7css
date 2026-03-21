@@ -1,10 +1,9 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  <h1>Olá, eu sou o Caio 👨‍💻</h1>
-</div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3776AB&center=true&vCenter=true&width=500&lines=Data+Scientist+in+Training;Machine+Learning+Enthusiast;Backend+%26+Analytics+Developer" />
+  <h1>Olá, eu sou o Caio 👨‍💻</h1>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3776AB,100:6DD5FA&height=120&section=header"/>
+
 </div>
 
 ---
@@ -29,7 +28,6 @@ Sou um desenvolvedor focado em **Data Science, Analytics e Machine Learning**, a
 
 #### 📊 Data Science
 <p>
-  <img src="https://skillicons.dev/icons?i=python" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
@@ -44,11 +42,9 @@ Sou um desenvolvedor focado em **Data Science, Analytics e Machine Learning**, a
 
 ### 📌 Projetos em destaque
 
-🚧 *Adicione aqui seus melhores projetos! Sugestão:*
-
-- 📊 Projeto de análise de dados (ex: dataset público)
-- 🤖 Modelo de Machine Learning
-- 🌐 API ou backend
+- 📊 **Análise de dados com insights acionáveis**
+- 🤖 **Modelo de Machine Learning aplicado**
+- 🌐 **API ou backend com integração de dados**
 
 ---
 
