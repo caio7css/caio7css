@@ -40,14 +40,6 @@ Sou um estudante focado em **Data Science, Analytics, Machine Learning e Desenvo
 
 ---
 
-### 📌 Projetos em destaque
-
-- 📊 **Análise de dados com insights acionáveis**
-- 🤖 **Modelo de Machine Learning aplicado**
-- 🌐 **API ou backend com integração de dados**
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
