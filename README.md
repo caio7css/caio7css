@@ -10,12 +10,12 @@
 
 ### 🚀 Sobre mim
 
-Sou um desenvolvedor focado em **Data Science, Analytics e Machine Learning**, apaixonado por transformar dados em decisões.
+Sou um estudante focado em **Data Science, Analytics, Machine Learning e Desenvolvimento Back-end**.
 
-- 🔭 Trabalhando com: **Análise de Dados & Machine Learning**
-- 🌱 Estudando: **Python, R, JavaScript e Engenharia de ML**
+- 🔭 Atualmente trabalhando com: **Análise de Dados & Machine Learning**
+- 🌱 Estudando: **Python, C#, Java e Engenharia de ML**
 - 👯 Buscando colaborar em: **projetos de dados e back-end**
-- 📫 Contato: **1caioccss@gmail.com**
+- 📫 Contato: **1caioccss@gmail.com ou @caio.css_**
 
 ---
 
