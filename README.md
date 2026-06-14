@@ -13,7 +13,7 @@
 Sou um estudante focado em **Data Science, Analytics, Machine Learning e Desenvolvimento Back-end**.
 
 - 🔭 Atualmente trabalhando com: **Análise de Dados & Machine Learning**
-- 🌱 Estudando: **Python, C#, Java e Engenharia de ML**
+- 🌱 Estudando: **Desenvolvimento com Python, Java, Data Science e Engenharia de ML**
 - 👯 Buscando colaborar em: **projetos de dados e back-end**
 - 📫 Contato: **1caioccss@gmail.com ou @caio.css_**
 
