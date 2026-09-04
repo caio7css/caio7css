@@ -12,18 +12,17 @@
 
 Sou um estudante focado em **Data Science, Analytics, Machine Learning e Desenvolvimento Back-end**.
 
-- 🔭 Atualmente trabalhando com: **Análise de Dados & Machine Learning**
-- 🌱 Estudando: **Desenvolvimento com Python, Java, Data Science e Engenharia de ML**
-- 👯 Buscando colaborar em: **projetos de dados e back-end**
+-  Atualmente trabalhando com: **Desenvolvimento e Machine Learning voltados para a computação em saúde**
+-  Estudando: **Desenvolvimento com Python, C# além de Data Science, Engenharia de ML e de software**
 - 📫 Contato: **1caioccss@gmail.com ou @caio.css_**
 
 ---
 
-### 🧠 Tech Stack
+###  Tech Stack
 
 #### 💻 Linguagens
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,java,c,cs,r" />
+  <img src="https://skillicons.dev/icons?i=python,js,java,c,cs" />
 </p>
 
 #### 📊 Data Science
@@ -31,6 +30,7 @@ Sou um estudante focado em **Data Science, Analytics, Machine Learning e Desenvo
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
 </p>
 
 #### ⚙️ Ferramentas
